@@ -28,3 +28,7 @@ gcloud dataproc clusters delete ch6cluster
 ## Customize Hadoop cluster
 https://github.com/canaantt/data-science-on-gcp/blob/master/06_dataproc/create_cluster.sh
 
+```
+./create_cluster.sh data-science-bookclub2018-ml us-central1-a
+```
+
